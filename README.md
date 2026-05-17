@@ -93,3 +93,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+Notes 본 프로젝트는 개인 시간에 독립적으로 개발되었습니다. 특정 회사, 프로젝트 또는 내부 파이프라인과는 관련이 없습니다.
+
+제 블로그 주소입니다. https://blog.naver.com/blue9954
